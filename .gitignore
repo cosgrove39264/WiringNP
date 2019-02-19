@@ -4,3 +4,6 @@ libwiringPiDev.so.2.0
 libwiringPi.so.2.0
 /test/
 nbproject
+cmake-*
+.idea
+/debian-package/wiringNP/pkgsrc/usr/

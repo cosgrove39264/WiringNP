@@ -1,0 +1,12 @@
+Package: wiringnp
+Version: 2.0.0-1
+Section: free
+Priority: extra
+Architecture: arm64
+Replaces:
+Provides: wiringpi
+Depends:
+Installed-Size:
+Maintainer: Marcel Schmidt <derprogger@gmail.com>
+Homepage: https://github.com/cosgrove39264/WiringNP
+Description: WiringNP for Nanopi neo plus2
